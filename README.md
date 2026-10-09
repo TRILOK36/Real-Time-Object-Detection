@@ -10,4 +10,6 @@ YOLOv8 + OpenCV + MySQL + Streamlit, with the **browser webcam** streamed to the
 5. Open the app, click START, allow the camera.
 
 Note: on some networks (college/office Wi-Fi) WebRTC needs a TURN server; if the video never starts, try another network.
+
+
 **run command** python -m streamlit run main.py
